@@ -1,0 +1,1 @@
+e.pizza.ings[e.ing - 1] or e.pizza.i1 == 0

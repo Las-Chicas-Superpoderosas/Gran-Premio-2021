@@ -1,0 +1,13 @@
+    A - optimizacion lista de nodos
+2   B - mates primos relativos, mod, potencias
+$$$ C - primos en un intervalo
+    D - pizzas
+C   E - laberinto (bfs???)
+$$$ F - subtitulos strings
+    G - game theory
+    H - Substring que más se repite
+    I - breath first 2d array 3 profundidad
+    J - como 2, radios p a la - q
+$$$ K - 2 - 5 mod
+$$$ L - potencias
+    M - 
