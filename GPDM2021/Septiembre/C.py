@@ -12,8 +12,7 @@ def cut(cards):
     return cards
 
 
-with open('input.txt', 'r') as stdin:
-    n = int(stdin.readline())
-    for i in range(n):
-        cards = stdin.readline().strip()
-        stdout.write(f'{cut(cards)}\n')
+n = int(stdin.readline())
+for i in range(n):
+    cards = stdin.readline().strip()
+    stdout.write(f'{cut(cards)}\n')
